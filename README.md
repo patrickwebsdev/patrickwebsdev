@@ -4,7 +4,6 @@
 <p align="center">Soy una persona que asimila muy rápido nuevo conocimiento, muy creativa y que le gusta innovar.</p>
 <p align="center">Me gustan las 🏍️ y el ☕</p>
 <br>
-<br>
 <h2 align="center">📌 Skills</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-FEFF01?logo=javascript&logoColor=000000&style=for-the-badge"/>
@@ -15,14 +14,11 @@
     <img src="https://img.shields.io/badge/MYSQL-00758F?logo=MYSQL&logoColor=FFFFFF&style=for-the-badge" />
 </div>
 <br>
-<br>
 <h2 align="center">⭐ Soft Skills</h2>
 <p align="center">Además de mis skills, tengo soft skills como la creatividad, innovación y capacidad para resolver problemas y trabajar en equipo.</p>
 <p align="center">Soy capaz de concentrarme en los detalles y de comprometerme con el esfuerzo necesario para alcanzar mis objetivos.</p>
 <br>
-<br>
 <h2 align="center">🚀 Contacto</h2>
-
 <div align="center">
     <a href="mailto:contact@patrickwebs.dev"><p>📧 contact@patrickwebs.dev</p></a>
     <a href="https://www.linkedin.com/in/patrickwebsdev/" alt="Mi linkedin"><img src="https://img.shields.io/badge/Linkedin-0072b1?logo=linkedin&logoColor=white&style=for-the-badge"></a>

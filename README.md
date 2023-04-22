@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/PHP-474A8A?logo=PHP&logoColor=FFFFFF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/MYSQL-00758F?logo=MYSQL&logoColor=FFFFFF&style=for-the-badge" />
 </div>
+<div align="center">
+    <strong>CSS: BEM | Javascript: camelCase</strong>
+</div>
 <br>
 <h2 align="center">⭐ Soft Skills</h2>
 <p align="center">Además de mis skills, tengo soft skills como la creatividad, innovación y capacidad para resolver problemas y trabajar en equipo.</p>

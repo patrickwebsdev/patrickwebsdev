@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="30px"/> ¡Hola! Soy $\normalsize\color{rgb(1,246,162)}{\textsf{Patricio Almada}}$</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> ¡Hola! Soy $\normalsize\color{rgb(1,246,162)}{\textsf{Patricio Almada}}$</h1>
 <p align="center">Desarrollador web $\normalsize\color{rgb(1,246,162)}{\textsf{Fullstack}}$. Actualmente estoy aprendiendo $\normalsize\color{rgb(1,246,162)}{\textsf{React}}$ y $\normalsize\color{rgb(1,246,162)}{\textsf{Typescript}}$ para seguir mejorando en mi campo.</p>
 
 <h1 align="center">Skills</h1>

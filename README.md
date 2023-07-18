@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="./images/handshake.webp?raw=true" width="30px"/> ¡Hola! Soy $\normalsize\color{rgb(1,246,162)}{\textsf{Patricio Almada}}$</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px"/> ¡Hola! Soy $\normalsize\color{rgb(1,246,162)}{\textsf{Patricio Almada}}$</h1>
 <p align="center">Desarrollador web $\normalsize\color{rgb(1,246,162)}{\textsf{Fullstack}}$. Actualmente estoy aprendiendo $\normalsize\color{rgb(1,246,162)}{\textsf{React}}$ y $\normalsize\color{rgb(1,246,162)}{\textsf{Typescript}}$ para seguir mejorando en mi campo.</p>
 <p align="center">Soy una persona que asimila muy rápido nuevo conocimiento, muy creativa y que le gusta innovar.</p>
 <p align="center">Me gustan las 🏍️ y el ☕</p>

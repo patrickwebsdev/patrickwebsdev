@@ -12,6 +12,12 @@
     <img src="https://img.shields.io/badge/SASS-CD6799?logo=sass&logoColor=FFFFFF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/PHP-474A8A?logo=PHP&logoColor=FFFFFF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/MYSQL-00758F?logo=MYSQL&logoColor=FFFFFF&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/REACT-61DBFB?logo=React&logoColor=FFFFFF&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=typescript&logoColor=FFFFFF&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 <div align="center">
     <strong>CSS: BEM | Javascript: camelCase</strong>

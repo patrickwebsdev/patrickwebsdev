@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px"/> ¡Hola! Soy $\normalsize\color{rgb(0,170,255)}{\textsf{Patricio Almada}}$</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px"/> ¡Hola! Soy Patricio Almada</h1>
 <p align="center">💻 Soy una persona que asimila muy rápido nuevo conocimiento, muy creativa y que le gusta innovar.</p>
 <p align="center">⭐ Soy capaz de concentrarme en los detalles y de comprometerme con el esfuerzo necesario para alcanzar mis objetivos.</p>
 <p align="center">📌 Me gustan las motos y el café.</p>

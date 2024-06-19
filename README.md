@@ -13,8 +13,8 @@
 
 <h2>💻 Proyectos recientes</h2>  
 <div>
-<a href="https://edsu.vercel.app" target="blank"><img src="https://images.ctfassets.net/p0c006iuv5cz/2Qq8xDusWF5rIRTL3RCVVw/30828d0fad3b745328d5e5b58eddadf8/122shots_so.png?fit=fill&w=390&r=5" alt="EDSU Lumber | Venta de madera mayorista y productos de madera minorista" width="390px"></a>
 <a href="https://miwa.com.ar" target="blank"><img src="https://images.ctfassets.net/p0c006iuv5cz/7Bmt7uv4XFppSFvIIaNy9h/7121a526c8acaf46a9499dbdf33f1488/794shots_so.png?fit=fill&w=390&r=5" alt="MIWA | Poda de altura y servicios forestales" width="390px"></a>
+<a href="https://edsu.vercel.app" target="blank"><img src="https://images.ctfassets.net/p0c006iuv5cz/2Qq8xDusWF5rIRTL3RCVVw/30828d0fad3b745328d5e5b58eddadf8/122shots_so.png?fit=fill&w=390&r=5" alt="EDSU Lumber | Venta de madera mayorista y productos de madera minorista" width="390px"></a>
 
 </div>
 

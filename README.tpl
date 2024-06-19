@@ -23,9 +23,7 @@
 
 <div>
 
-<img  src="https://skillicons.dev/icons?i=react,typescript,js,nextjs,tailwind,git,github,githubactions,vercel,linux,vscode,nodejs,vite,supabase&perline=14">
-
-<img  src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,figma,php,mysql,astro&perline=14">
+<img  src="https://skillicons.dev/icons?i=react,typescript,js,nextjs,tailwind,git,github,githubactions,vercel,linux,vscode,nodejs,vite,supabase,html,css,sass,bootstrap,figma,php,mysql,astro&perline=14">
 
 </div>
 

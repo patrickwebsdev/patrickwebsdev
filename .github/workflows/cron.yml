@@ -1,0 +1,28 @@
+name: Dayly Project Fetch
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run data fetching script
+        env:
+          CONTENTFUL_SPACE_ID: ${{ secrets.CONTENTFUL_SPACE_ID }}
+          CONTENTFUL_ACCESS_TOKEN: ${{ secrets.CONTENTFUL_ACCESS_TOKEN }}
+        run: node index.js
+      - run: |
+          git config user.name patrickwebsdev
+          git config user.email contacto@patricioalmada.com.ar
+          git add .
+          git commit -m "[BOT] Update last projects"
+          git push origin master

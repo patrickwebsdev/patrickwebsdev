@@ -45,7 +45,7 @@ async function fetchProjects() {
       projects += `<a href="${project.url}" target="blank"><img src="${project.thumbnail.url}?fit=fill&w=390&r=5" alt="${project.title + " | " + project.description}" width="390px"></a>\n`;
     });
 
-    const finalTemplate = markdownTemplate.replace('%{{latest_projects}}', projects);
+    const finalTemplate = markdownTemplate.replace('%{{latest_projects}}', projects).replace('%{{date}}', new Date().toLocaleDateString('es-ES', { day: 'numeric', month: 'numeric', year: 'numeric' }));
     fs.writeFileSync('README.md', finalTemplate);
     console.info("README Escrito con exito");
   } catch (error) {

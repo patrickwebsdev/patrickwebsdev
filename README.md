@@ -1,3 +1,6 @@
+<!---
+20/6/2024
+-->
 <h2><img  src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp"  width="30px"/> ¡Hola! Soy Patricio (Desarrollador web full stack)</h2>
 
 <p>Asimilo muy rápido nuevo conocimiento, soy muy creativo y me gusta innovar. Soy capaz de concentrarme en los detalles y de comprometerme con el esfuerzo necesario para alcanzar mis objetivos.</p>

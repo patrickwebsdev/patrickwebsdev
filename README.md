@@ -35,3 +35,10 @@
 <h2>⭐ Soft Skills</h2>
 
 <p>Además de mis skills, tengo soft skills como la creatividad, innovación y capacidad para resolver problemas y trabajar en equipo. Soy capaz de concentrarme en los detalles y de comprometerme con el esfuerzo necesario para alcanzar mis objetivos.</p>
+
+<h2>📌 Widget de musica (YT Music) para tu README</h2>
+
+<p>Repo: <a href="https://github.com/patrickwebsdev/yt-music-github-profile">Click aca</a></p>
+
+<p>Widget:</p>
+<img src="https://yt-music-github-profile.vercel.app/">

@@ -1,5 +1,5 @@
 <!---
-23/10/2024
+24/10/2024
 -->
 <h2><img  src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp"  width="30px"/> ¡Hola! Soy Patricio (Desarrollador web full stack)</h2>
 
@@ -7,7 +7,7 @@
 
   
 
-- 🚀 Actualmente estoy trabajando con NodeJS.
+- 🚀 Actualmente estoy trabajando en NodeJS.
 
 - 👁️ Actualmente estoy aprendiendo Redux.
 

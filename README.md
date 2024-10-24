@@ -7,9 +7,9 @@
 
   
 
-- 🚀 Actualmente estoy trabajando en NodeJS.
+- 🚀 Actualmente estoy trabajando con NodeJS.
 
-- 👁️ Actualmente estoy aprendiendo Redux.
+- 👁️ Actualmente estoy aprendiendo FilamentPHP.
 
 - 🫡 Quiero colaborar en nuevas ideas de negocio.
 

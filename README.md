@@ -1,5 +1,5 @@
 <!---
-24/10/2024
+25/10/2024
 -->
 <h2><img  src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp"  width="30px"/> ¡Hola! Soy Patricio (Desarrollador web full stack)</h2>
 

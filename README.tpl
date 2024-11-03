@@ -20,13 +20,13 @@
 </div>
 
 <h2>🤝 Conecta conmigo:</h2>
-<a  href="https://www.linkedin.com/in/patrickwebsdev/"  target="blank"><img  src="https://skillicons.dev/icons?i=linkedin"></a>  <a  href="mailto:contacto@patricioalmada.com.ar"  target="blank"><img  src="https://skillicons.dev/icons?i=gmail"></a>  <a  href="https://discordapp.com/users/415654011887419413"  target="blank"><img  src="https://skillicons.dev/icons?i=discord"></a>
+<a href="https://www.linkedin.com/in/patrickwebsdev/"  target="blank"><img  src="https://skillicons.dev/icons?i=linkedin"></a>  <a  href="mailto:contacto@patricioalmada.com.ar"  target="blank"><img  src="https://skillicons.dev/icons?i=gmail"></a>  <a  href="https://discordapp.com/users/415654011887419413"  target="blank"><img  src="https://skillicons.dev/icons?i=discord"></a>
 
 <h2>📌 Skills</h2>
 
 <div>
 
-<img  src="https://skillicons.dev/icons?i=react,typescript,js,nextjs,tailwind,git,github,githubactions,vercel,linux,vscode,nodejs,vite,supabase,html,css,sass,bootstrap,figma,php,mysql,astro&perline=14">
+<img src="https://skillicons.dev/icons?i=js,typescript,nodejs,react,nextjs,git,github,githubactions,vercel,linux,docker,vim,vscode,php,mysql,laravel,sass,tailwind,bootstrap,figma&perline=10">
 
 </div>
 
@@ -34,9 +34,5 @@
 
 <p>Además de mis skills, tengo soft skills como la creatividad, innovación y capacidad para resolver problemas y trabajar en equipo. Soy capaz de concentrarme en los detalles y de comprometerme con el esfuerzo necesario para alcanzar mis objetivos.</p>
 
-<h2>📌 Widget de musica (YT Music) para tu README</h2>
-
-<p>Repo: <a href="https://github.com/patrickwebsdev/yt-music-github-profile">Click aca</a></p>
-
-<p>Widget:</p>
+<h2>🎶 YT Music en tiempo real - <a href="https://github.com/patrickwebsdev/yt-music-github-profile">repo</a></h2>
 <img src="https://yt-music-github-profile.vercel.app/">
